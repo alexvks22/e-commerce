@@ -7,16 +7,16 @@ A simple interface has been created using Bootstrap 4 and HTML5.
 I used *Tomcat Apache Server 7.5* via **Eclipse**. For installation of Tomcat, please follow instructions: https://www.baeldung.com/eclipse-tomcat.
 
 **If server is running, then from Eclipse IDE:**
-1) Select project with right click
+1) Select InterviewProject with right click
 2) Choose Run as...
 3) Select "1 Run on Server "
 4) Choose Tomcat Server
-5) Add project as "Configured"
+5) Add InterviewProject as "Configured"
 6) Press Finish
 
 **Interaction with Interview Project:**
 1) Open Web Browser
-2) Go to "http://localhost:8080/name_of_project/"
+2) Go to "http://localhost:8080/InterviewProject/"
 
 *Port may differ. If we need 8080 then we can go to Tomcat Server Properties and change port to 8080.*
 
