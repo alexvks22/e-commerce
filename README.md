@@ -33,6 +33,6 @@ Caution! Hard Disk and Operating System **cannot** sold seperatelly.
 *User can buy a product at a time.*
 When user selects his/her preferable product to buy, then an Order is created with the name of the product to be bought, date of order and a description of the product.
 
-This project was implemented for interview purposes for a Company at 03/2020.
+This project was implemented for interview purposes.
 
 
